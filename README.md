@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Catasphorism!
+- 👀 I’m new to coding and looking to "git" good.
+- 🌱 I’m currently learning python, slithery lil snakey snake.
+- 💞️ I’m looking to collaborate on just about anything.
+- 📫 How to reach me smoke signal probably works best.
